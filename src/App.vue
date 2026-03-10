@@ -5,7 +5,7 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <header>
     <nav>
-      <RouterLink to="/">Accueil</RouterLink>
+      <RouterLink to="/">Accueil !!!</RouterLink>
       <RouterLink to="/pokemons">Pokédex</RouterLink>
       <RouterLink to="/team">Ma Team</RouterLink>
     </nav>
